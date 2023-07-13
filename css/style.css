@@ -1,0 +1,48 @@
+
+.display-4{
+    text-decoration: underline;
+}
+.nav-link{
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.jumbotron{
+    background-color: #F2EFE9;
+    margin:50px
+}
+
+
+.col-sm-6 {
+    border: 2px;
+    border-style: solid;
+    border-color:crimson;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+.media {
+    margin-top: 50px;
+}
+
+.Rowling {
+    margin-top: 50px;
+    border-style: solid;
+    border-bottom: 5px;
+    border-color: darkorange;
+    text-align: center;
+}
+
+.fourdem {
+    margin-top: 50px;
+    border-left: 3px;
+    border-right: 3px;
+    border-style: double;
+    border-color: darkgray;
+}
